@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: br.com.rest.Livraria_Virtual_Cliente.MyResourceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.013 sec
